@@ -102,3 +102,12 @@ This project is intended for learning, demonstration, and academic use. Verify l
 
 A vehicle is classified as a repeat offender when it has two or more recorded violations.
 These are the example rules configured in this project. They should be checked against the applicable local regulations before real-world use.
+
+
+## Author
+
+Developed by: PRAKALYA MUTHUSAME
+
+LinkedIn: www.linkedin.com/in/prakalya-muthusame-38837441b
+
+
