@@ -47,6 +47,18 @@ Signal violation	₹1,000	High
 Wrong parking   	₹500	  Low
 No seat belt    	₹500	  Medium
 
+
+How to Install and Run
+Option 1: Run using VS Code
+1. Create a project folder named Smart-Traffic-Violation.
+2. Copy smart_traffic_violation_v4_features.py into that folder.
+3. Save this README as README.md in the same folder.
+4. Open the folder in Visual Studio Code.
+5. If prompted, install the Python extension published by Microsoft.
+6. Open Terminal → New Terminal.
+7. Run the application:
+   python smart_traffic_violation_v4_features.py
+
 How to Use the Application:
 1. Register a vehicle: Open Vehicles and select Add Vehicle. Enter its registration number, owner's name, and vehicle type. Contact and license details are optional.
 2. Record a violation: Open Violations and select Record Violation. Enter a registered vehicle's registration number, choose a violation type, check the date, and enter the location.
